@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Glitch-r   ](/sample_page)
+[Glitch-r      ](/sample_page)
 <img src="images/Glitch-r.jpg?raw=true"/>
 In Glitch-r, you need to destroy all enemies and save scientists. This is action like game made for PC devices in Unity Game Engine. In that project I have worked as designer.
 ---
