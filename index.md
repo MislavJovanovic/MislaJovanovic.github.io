@@ -11,7 +11,7 @@ In Glitch-r, you need to destroy all enemies and save scientists. This is action
 
 
 [PathFinder](/pdf/sample_page)
-<img src="images/PathFinder.jpg?raw=true"/>
+<img src="images/PathFinder.jpg"/>
 In Pathfinder, you need to find your opponent's secret path faster than he finds yours. This is bord like game made for Android devices in Unity Game Engine. In that project I have worked as programmer.
 ---
 
